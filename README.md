@@ -24,17 +24,18 @@ To get started with WebSocialMedia, you can simply visit the live website at [ht
 
 In order to run the project locally, you will need to have the following installed on your machine:
 
-- Node.js
-- MongoDB
-
-### Installation
-
-To install the project, simply clone the repository to your local machine and run the following commands:
-
-```
-npm install
-npm run dev
-```
+- networkx
+- matplotlib
+- pprint
+- requests
+- wordcloud
+- nltk
+- textblob
+- tkinter
+- newspaper
+- gensim
+- json
+- twython
 
 This will install all of the necessary dependencies and start the development server on your local machine.
 
