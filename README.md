@@ -1,7 +1,3 @@
-Readme Text for GitHub Repository: https://github.com/Aliht72/WebSocialMedia
-Sure, I'd be happy to help you write a README for your GitHub repository.
-
----
 
 # WebSocialMedia
 Introduction:
@@ -19,7 +15,6 @@ The project also analyzes graph data from Facebook using graph analytics. The da
 Conclusion:
 WebSocialMedia is an excellent tool for anyone looking to analyze social media data from Twitter. It offers insights into the most popular trends and locational data, and it can also analyze graph data. The project is an excellent resource for anyone looking to learn more about Python and social media analytics.
 
-Welcome to WebSocialMedia, a web-based social media platform built using a combination of front-end and back-end technologies. This platform allows users to create and share content, connect with other users, and engage in discussions on a variety of topics.
 
 ## Getting Started
 
@@ -43,21 +38,14 @@ npm run dev
 
 This will install all of the necessary dependencies and start the development server on your local machine.
 
-### Usage
-
-Once the development server is running, you can simply navigate to `http://localhost:3000` in your web browser to access the WebSocialMedia platform. From there, you can create an account, login, and start exploring the platform's various features.
 
 ## Contributing
 
-If you're interested in contributing to the development of WebSocialMedia, please feel free to fork the repository and submit a pull request. We're always looking for talented developers to help improve the platform and add new features.
-
-## License
-
-WebSocialMedia is licensed under the MIT license. See `LICENSE` for more information.
+If you're interested in contributing to the development of Web Social Media API and also NLP, please feel free to fork the repository and submit a pull request.
 
 ## Contact
 
-If you have any questions or concerns about WebSocialMedia, please feel free to contact us at [contact@websocialmedia.com](mailto:contact@websocialmedia.com).
+If you have any questions or concerns about WebSocialMedia, please feel free to contact us at alihosseinit72@gmail.com .
 
 ---
 
